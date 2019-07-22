@@ -1,5 +1,5 @@
 # CSpawners v1.0.00-alpha-C - Almost ready to release
-[![Get help and Chat](https://img.shields.io/badge/Get%20help%20and%20Chat-on%20discord-7289da.svg)](https://discord.gg/VyntgYz) [![Website](https://img.shields.io/badge/Website-www.NaumsJr.com-brightgreen.svg)](http://www.naumsjr.com)
+[![Get help and Chat](https://img.shields.io/badge/Get%20help%20and%20Chat-on%20discord-7289da.svg)](https://discord.gg/VyntgYz) [![Website](https://img.shields.io/badge/Website-www.NaumsJr.com-brightgreen.svg)](http://www.naumsjr.com) [![Build Status](https://travis-ci.org/NaumsJr/CSpawners.svg?branch=master)](https://travis-ci.org/NaumsJr/CSpawners)
 
 ___________________________________________________
 Please Report All Bugs and Issues and Suggestions in the Issues Section of this Repository with as much details as possible to make it easier to fix and implement these
